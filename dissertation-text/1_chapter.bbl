@@ -1,0 +1,263 @@
+\begin{thebibliography}{51}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[James et~al.(2021)James, St{\"o}ckli, and Birnbaum]{James2021-vu}
+David~E James, Jacqueline St{\"o}ckli, and Morris~J Birnbaum.
+\newblock The aetiology and molecular landscape of insulin resistance.
+\newblock \emph{Nat. Rev. Mol. Cell Biol.}, 22\penalty0 (11):\penalty0 751--771, November 2021.
+
+\bibitem[Adeva-Andany et~al.(2019)Adeva-Andany, Mart{\'\i}nez-Rodr{\'\i}guez, Gonz{\'a}lez-Luc{\'a}n, Fern{\'a}ndez-Fern{\'a}ndez, and Castro-Quintela]{Adeva-Andany2019-df}
+Mar{\'\i}a~M Adeva-Andany, Julia Mart{\'\i}nez-Rodr{\'\i}guez, Manuel Gonz{\'a}lez-Luc{\'a}n, Carlos Fern{\'a}ndez-Fern{\'a}ndez, and Elvira Castro-Quintela.
+\newblock Insulin resistance is a cardiovascular risk factor in humans.
+\newblock \emph{Diabetes Metab. Syndr.}, 13\penalty0 (2):\penalty0 1449--1455, February 2019.
+
+\bibitem[Khan et~al.(2019)Khan, Bril, Cusi, and Newsome]{Khan2019-qt}
+Reenam~S Khan, Fernando Bril, Kenneth Cusi, and Philip~N Newsome.
+\newblock Modulation of insulin resistance in nonalcoholic fatty liver disease.
+\newblock \emph{Hepatology}, 70\penalty0 (2):\penalty0 711--724, August 2019.
+
+\bibitem[Yki-J{\"a}rvinen(2004)]{Yki-Jarvinen2004-ba}
+Hannele Yki-J{\"a}rvinen.
+\newblock Thiazolidinediones.
+\newblock \emph{N. Engl. J. Med.}, 351\penalty0 (11):\penalty0 1--13, August 2004.
+
+\bibitem[Tontonoz et~al.(1994{\natexlab{a}})Tontonoz, Hu, Graves, Budavari, and Spiegelman]{Tontonoz1994-nk}
+P~Tontonoz, E~Hu, R~A Graves, A~I Budavari, and B~M Spiegelman.
+\newblock {mPPAR} gamma 2: tissue-specific regulator of an adipocyte enhancer.
+\newblock \emph{Genes Dev.}, 8\penalty0 (10):\penalty0 1224--1234, May 1994{\natexlab{a}}.
+
+\bibitem[Kernan et~al.(2016)Kernan, Viscoli, Furie, Young, Inzucchi, Gorman, Guarino, Lovejoy, Peduzzi, Conwit, Brass, Schwartz, Adams, Berger, Carolei, Clark, Coull, Ford, Kleindorfer, O'Leary, Parsons, Ringleb, Sen, Spence, Tanne, Wang, Winder, and {IRIS Trial Investigators}]{Kernan2016-fd}
+Walter~N Kernan, Catherine~M Viscoli, Karen~L Furie, Lawrence~H Young, Silvio~E Inzucchi, Mark Gorman, Peter~D Guarino, Anne~M Lovejoy, Peter~N Peduzzi, Robin Conwit, Lawrence~M Brass, Gregory~G Schwartz, Harold~P Adams, Jr, Leo Berger, Antonio Carolei, Wayne Clark, Bruce Coull, Gary~A Ford, Dawn Kleindorfer, John~R O'Leary, Mark~W Parsons, Peter Ringleb, Souvik Sen, J~David Spence, David Tanne, David Wang, Toni~R Winder, and {IRIS Trial Investigators}.
+\newblock Pioglitazone after ischemic stroke or transient ischemic attack.
+\newblock \emph{N. Engl. J. Med.}, 374\penalty0 (14):\penalty0 1321--1331, April 2016.
+
+\bibitem[Inzucchi et~al.(2016)Inzucchi, Viscoli, Young, Furie, Gorman, Lovejoy, Dagogo-Jack, Ismail-Beigi, Korytkowski, Pratley, Schwartz, Kernan, and {IRIS Trial Investigators}]{Inzucchi2016-ni}
+Silvio~E Inzucchi, Catherine~M Viscoli, Lawrence~H Young, Karen~L Furie, Mark Gorman, Anne~M Lovejoy, Samuel Dagogo-Jack, Faramarz Ismail-Beigi, Mary~T Korytkowski, Richard~E Pratley, Gregory~G Schwartz, Walter~N Kernan, and {IRIS Trial Investigators}.
+\newblock Pioglitazone prevents diabetes in patients with insulin resistance and cerebrovascular disease.
+\newblock \emph{Diabetes Care}, 39\penalty0 (10):\penalty0 1684--1692, October 2016.
+
+\bibitem[Musso et~al.(2017)Musso, Cassader, Paschetta, and Gambino]{Musso2017-xi}
+Giovanni Musso, Maurizio Cassader, Elena Paschetta, and Roberto Gambino.
+\newblock Thiazolidinediones and advanced liver fibrosis in nonalcoholic steatohepatitis: A meta-analysis.
+\newblock \emph{JAMA Intern. Med.}, 177\penalty0 (5):\penalty0 633--640, May 2017.
+
+\bibitem[Higgins and Depaoli(2010)]{Higgins2010-tv}
+Linda~Slanec Higgins and Alex~M Depaoli.
+\newblock Selective peroxisome proliferator-activated receptor gamma ({PPARgamma}) modulation as a strategy for safer therapeutic {PPARgamma} activation.
+\newblock \emph{Am. J. Clin. Nutr.}, 91\penalty0 (1):\penalty0 267S--272S, January 2010.
+
+\bibitem[DePaoli et~al.(2014)DePaoli, Higgins, Henry, Mantzoros, Dunn, and {INT131-007 Study Group}]{DePaoli2014-hi}
+Alex~M DePaoli, Linda~S Higgins, Robert~R Henry, Christos Mantzoros, Fredrick~L Dunn, and {INT131-007 Study Group}.
+\newblock Can a selective {PPAR$\gamma$} modulator improve glycemic control in patients with type 2 diabetes with fewer side effects compared with pioglitazone?
+\newblock \emph{Diabetes Care}, 37\penalty0 (7):\penalty0 1918--1923, July 2014.
+
+\bibitem[Majithia et~al.(2016)Majithia, Tsuda, Agostini, Gnanapradeepan, Rice, Peloso, Patel, Zhang, Broekema, Patterson, Duby, Sharpe, Kalkhoven, Rosen, Barroso, Ellard, {UK Monogenic Diabetes Consortium}, Kathiresan, {Myocardial Infarction Genetics Consortium}, O'Rahilly, {UK Congenital Lipodystrophy Consortium}, Chatterjee, Florez, Mikkelsen, Savage, and Altshuler]{Majithia2016-bm}
+Amit~R Majithia, Ben Tsuda, Maura Agostini, Keerthana Gnanapradeepan, Robert Rice, Gina Peloso, Kashyap~A Patel, Xiaolan Zhang, Marjoleine~F Broekema, Nick Patterson, Marc Duby, Ted Sharpe, Eric Kalkhoven, Evan~D Rosen, In{\^e}s Barroso, Sian Ellard, {UK Monogenic Diabetes Consortium}, Sekar Kathiresan, {Myocardial Infarction Genetics Consortium}, Stephen O'Rahilly, {UK Congenital Lipodystrophy Consortium}, Krishna Chatterjee, Jose~C Florez, Tarjei Mikkelsen, David~B Savage, and David Altshuler.
+\newblock Prospective functional classification of all possible missense variants in {PPARG}.
+\newblock \emph{Nat. Genet.}, 48\penalty0 (12):\penalty0 1570--1575, December 2016.
+
+\bibitem[Agostini et~al.(2018)Agostini, Schoenmakers, Beig, Fairall, Szatmari, Rajanayagam, Muskett, Adams, Marais, O'Rahilly, Semple, Nagy, Majithia, Schwabe, Blom, Murphy, Chatterjee, and Savage]{Agostini2018-bx}
+Maura Agostini, Erik Schoenmakers, Junaid Beig, Louise Fairall, Istvan Szatmari, Odelia Rajanayagam, Frederick~W Muskett, Claire Adams, A~David Marais, Stephen O'Rahilly, Robert~K Semple, Laszlo Nagy, Amit~R Majithia, John W~R Schwabe, Dirk~J Blom, Rinki Murphy, Krishna Chatterjee, and David~B Savage.
+\newblock A pharmacogenetic approach to the treatment of patients with {PPARG} mutations.
+\newblock \emph{Diabetes}, 67\penalty0 (6):\penalty0 1086--1092, June 2018.
+
+\bibitem[Tontonoz et~al.(1998)Tontonoz, Nagy, Alvarez, Thomazy, and Evans]{Tontonoz1998-aq}
+Peter Tontonoz, Laszlo Nagy, Jacqueline G~A Alvarez, Vilmos~A Thomazy, and Ronald~M Evans.
+\newblock {PPAR$\gamma$} promotes monocyte/macrophage differentiation and uptake of oxidized {LDL}.
+\newblock \emph{Cell}, 1998.
+
+\bibitem[Aryal et~al.(2016)Aryal, Rotllan, Araldi, Ram{\'\i}rez, He, Chousterman, Fenn, Wanschel, Madrigal-Matute, Warrier, Mart{\'\i}n-Ventura, Swirski, Su{\'a}rez, and Fern{\'a}ndez-Hernando]{Aryal2016-ze}
+Binod Aryal, Noemi Rotllan, Elisa Araldi, Cristina~M Ram{\'\i}rez, Shun He, Benjamin~G Chousterman, Ashley~M Fenn, Amarylis Wanschel, Julio Madrigal-Matute, Nikhil Warrier, Jose~L Mart{\'\i}n-Ventura, Filip~K Swirski, Yajaira Su{\'a}rez, and Carlos Fern{\'a}ndez-Hernando.
+\newblock {ANGPTL4} deficiency in haematopoietic cells promotes monocyte expansion and atherosclerosis progression.
+\newblock \emph{Nat. Commun.}, 7:\penalty0 12313, July 2016.
+
+\bibitem[Lefterova et~al.(2008)Lefterova, Zhang, Steger, Schupp, Schug, Cristancho, Feng, Zhuo, Stoeckert, Liu, and Lazar]{Lefterova2008-rk}
+Martina~I Lefterova, Yong Zhang, David~J Steger, Michael Schupp, Jonathan Schug, Ana Cristancho, Dan Feng, David Zhuo, Christian~J Stoeckert, Jr, X~Shirley Liu, and Mitchell~A Lazar.
+\newblock {PPARgamma} and {C/EBP} factors orchestrate adipocyte biology via adjacent binding on a genome-wide scale.
+\newblock \emph{Genes Dev.}, 22\penalty0 (21):\penalty0 2941--2952, November 2008.
+
+\bibitem[Hodgkinson and Ye(2003)]{Hodgkinson2003-fo}
+Conrad~P Hodgkinson and Shu Ye.
+\newblock Microarray analysis of peroxisome proliferator-activated receptor-gamma induced changes in gene expression in macrophages.
+\newblock \emph{Biochem. Biophys. Res. Commun.}, 308\penalty0 (3):\penalty0 505--510, August 2003.
+
+\bibitem[Kim et~al.(1998)Kim, Wright, Wright, and Spiegelman]{Kim1998-aj}
+J~B Kim, H~M Wright, M~Wright, and B~M Spiegelman.
+\newblock {ADD1/SREBP1} activates {PPARgamma} through the production of endogenous ligand.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 95\penalty0 (8):\penalty0 4333--4337, April 1998.
+
+\bibitem[Ma et~al.(2012)Ma, Zhang, Fang, Zou, Gong, Yu, and Chen]{Ma2012-dm}
+Jing-Jing Ma, Tao Zhang, Ning Fang, Yan Zou, Qi-Hai Gong, Li-Mei Yu, and Dai-Xiong Chen.
+\newblock Establishment of a cell-based drug screening model for identifying agonists of human peroxisome proliferator-activated receptor gamma ({PPAR$\gamma$}).
+\newblock \emph{J. Pharm. Pharmacol.}, 64\penalty0 (5):\penalty0 719--726, May 2012.
+
+\bibitem[Hsu et~al.(1996)Hsu, Nicholson, and Hajjar]{Hsu1996-yv}
+H~Y Hsu, A~C Nicholson, and D~P Hajjar.
+\newblock Inhibition of macrophage scavenger receptor activity by tumor necrosis factor-alpha is transcriptionally and post-transcriptionally regulated.
+\newblock \emph{J. Biol. Chem.}, 271\penalty0 (13):\penalty0 7767--7773, March 1996.
+
+\bibitem[Rovera et~al.(1979)Rovera, O'Brien, and Diamond]{Rovera1979-za}
+G~Rovera, T~G O'Brien, and L~Diamond.
+\newblock Induction of differentiation in human promyelocytic leukemia cells by tumor promoters.
+\newblock \emph{Science}, 204\penalty0 (4395):\penalty0 868--870, May 1979.
+
+\bibitem[de~Morr{\'e}e et~al.(2013)de~Morr{\'e}e, Flix, Bagaric, Wang, van~den Boogaard, Grand~Moursel, Frants, Illa, Gallardo, Toes, and van~der Maarel]{De_Morree2013-dh}
+Antoine de~Morr{\'e}e, B{\`a}rbara Flix, Ivana Bagaric, Jun Wang, Marlinde van~den Boogaard, Laure Grand~Moursel, Rune~R Frants, Isabel Illa, Eduard Gallardo, Rene Toes, and Silv{\`e}re~M van~der Maarel.
+\newblock Dysferlin regulates cell adhesion in human monocytes.
+\newblock \emph{J. Biol. Chem.}, 288\penalty0 (20):\penalty0 14147--14157, May 2013.
+
+\bibitem[Pott et~al.(2012)Pott, Kamrani, Bourque, Pettersson, and Liu]{Pott2012-ji}
+Sebastian Pott, Nima~K Kamrani, Guillaume Bourque, Sven Pettersson, and Edison~T Liu.
+\newblock {PPARG} binding landscapes in macrophages suggest a genome-wide contribution of {PU.1} to divergent {PPARG} binding in human and mouse.
+\newblock \emph{PLoS One}, 7\penalty0 (10):\penalty0 e48102, October 2012.
+
+\bibitem[Keller et~al.(2018)Keller, Notarangelo, and Malech]{Keller2018-zv}
+Michael~D Keller, Luigi~D Notarangelo, and Harry~L Malech.
+\newblock Future of care for patients with chronic granulomatous disease: Gene therapy and targeted molecular medicine.
+\newblock \emph{J Pediatric Infect Dis Soc}, 7\penalty0 (suppl\_1):\penalty0 S40--S44, May 2018.
+
+\bibitem[Chang and Nevins(2006)]{Chang2006-im}
+Jeffrey~T Chang and Joseph~R Nevins.
+\newblock {GATHER}: a systems approach to interpreting genomic signatures.
+\newblock \emph{Bioinformatics}, 22\penalty0 (23):\penalty0 2926--2933, December 2006.
+
+\bibitem[Yu et~al.(2012)Yu, Wang, Han, and He]{Yu2012-gb}
+Guangchuang Yu, Li-Gen Wang, Yanyan Han, and Qing-Yu He.
+\newblock clusterprofiler: an {R} package for comparing biological themes among gene clusters.
+\newblock \emph{OMICS}, 16\penalty0 (5):\penalty0 284--287, May 2012.
+
+\bibitem[Ashburner et~al.(2000)Ashburner, Ball, Blake, Botstein, Butler, Cherry, Davis, Dolinski, Dwight, Eppig, Harris, Hill, Issel-Tarver, Kasarskis, Lewis, Matese, Richardson, Ringwald, Rubin, and Sherlock]{Ashburner2000-df}
+M~Ashburner, C~A Ball, J~A Blake, D~Botstein, H~Butler, J~M Cherry, A~P Davis, K~Dolinski, S~S Dwight, J~T Eppig, M~A Harris, D~P Hill, L~Issel-Tarver, A~Kasarskis, S~Lewis, J~C Matese, J~E Richardson, M~Ringwald, G~M Rubin, and G~Sherlock.
+\newblock Gene ontology: tool for the unification of biology. the gene ontology consortium.
+\newblock \emph{Nat. Genet.}, 25\penalty0 (1):\penalty0 25--29, May 2000.
+
+\bibitem[{Gene Ontology Consortium}(2021)]{Gene_Ontology_Consortium2021-fn}
+{Gene Ontology Consortium}.
+\newblock The gene ontology resource: enriching a {GOld} mine.
+\newblock \emph{Nucleic Acids Res.}, 49\penalty0 (D1):\penalty0 D325--D334, January 2021.
+
+\bibitem[De~Siqueira et~al.(2024)De~Siqueira, Li, Zhao, Wang, Ahn, Tamboline, Hildreth, Larios, Schcolnik-Cabrera, Nouhi, Zhang, Tol, Pandey, Xu, O'Sullivan, Mack, Tontonoz, Sallam, Wohlschlegel, Hulea, Xiao, Yang, and Villanueva]{De-Siqueira2024-uz}
+Mirian~Krystel De~Siqueira, Gaoyan Li, Yutian Zhao, Siqi Wang, In~Sook Ahn, Mikayla Tamboline, Andrew~D Hildreth, Jakeline Larios, Alejandro Schcolnik-Cabrera, Zaynab Nouhi, Zhengyi Zhang, Marcus~J Tol, Vijaya Pandey, Shili Xu, Timothy~E O'Sullivan, Julia~J Mack, Peter Tontonoz, Tamer Sallam, James~A Wohlschlegel, Laura Hulea, Xinshu Xiao, Xia Yang, and Claudio~J Villanueva.
+\newblock {PPAR$\gamma$-dependent} remodeling of translational machinery in adipose progenitors is impaired in obesity.
+\newblock \emph{Cell Rep.}, 43\penalty0 (12):\penalty0 114945, December 2024.
+
+\bibitem[Mosure et~al.(2022)Mosure, Munoz-Tello, Kuo, MacTavish, Yu, Scholl, Williams, Strutzenberg, Bass, Brust, Deniz, Griffin, and Kojetin]{Mosure2022-tw}
+Sarah~A Mosure, Paola Munoz-Tello, Kuang-Ting Kuo, Brian MacTavish, Xiaoyu Yu, Daniel Scholl, Christopher~C Williams, Timothy~S Strutzenberg, Jared Bass, Richard Brust, Ashok~A Deniz, Patrick~R Griffin, and Douglas~J Kojetin.
+\newblock Structural basis of interdomain communication in {PPAR$\gamma$}.
+\newblock July 2022.
+
+\bibitem[Tontonoz et~al.(1994{\natexlab{b}})Tontonoz, Hu, and Spiegelman]{Tontonoz1994-ds}
+Peter Tontonoz, Erding Hu, and Bruce~M Spiegelman.
+\newblock Stimulation of adipogenesis in fibroblasts by {PPAR$\gamma$2}, a lipid-activated transcription factor.
+\newblock \emph{Cell}, 79\penalty0 (7):\penalty0 1147--1156, December 1994{\natexlab{b}}.
+
+\bibitem[Hummasti and Tontonoz(2006)]{Hummasti2006-rm}
+Sarah Hummasti and Peter Tontonoz.
+\newblock The peroxisome proliferator-activated receptor n-terminal domain controls isotype-selective gene expression and adipogenesis.
+\newblock \emph{Mol. Endocrinol.}, 20\penalty0 (6):\penalty0 1261--1275, June 2006.
+
+\bibitem[Adams et~al.(1997)Adams, Reginato, Shao, Lazar, and Chatterjee]{Adams1997-cf}
+Maria Adams, Mauricio~J Reginato, Dalei Shao, Mitchell~A Lazar, and V~Krishna Chatterjee.
+\newblock Transcriptional activation by peroxisome proliferator-activated receptor $\gamma$ is inhibited by phosphorylation at a consensus mitogen-activated protein kinase site.
+\newblock \emph{J. Biol. Chem.}, 272\penalty0 (8):\penalty0 5128--5132, 1997.
+
+\bibitem[Hu et~al.(1996)Hu, Kim, Sarraf, and Spiegelman]{Hu1996-mb}
+Erding Hu, Jae~Bum Kim, Pasha Sarraf, and Bruce~M Spiegelman.
+\newblock Inhibition of adipogenesis through {MAP} {Kinase-Mediated} phosphorylation of {PPAR$\gamma$}.
+\newblock \emph{Science}, 274\penalty0 (5295):\penalty0 2100--2103, 1996.
+
+\bibitem[Camp and Tafuri(1997)]{Camp1997-nf}
+Heidi~S Camp and Sherrie~R Tafuri.
+\newblock Regulation of peroxisome proliferator-activated receptor $\gamma$ activity by mitogen-activated protein kinase *.
+\newblock \emph{J. Biol. Chem.}, 272\penalty0 (16):\penalty0 10811--10816, April 1997.
+
+\bibitem[Altshuler et~al.(2000)Altshuler, Hirschhorn, Klannemark, Lindgren, Vohl, Nemesh, Lane, Schaffner, Bolk, Brewer, Tuomi, Gaudet, Hudson, Daly, Groop, and Lander]{Altshuler2000-kl}
+D~Altshuler, J~N Hirschhorn, M~Klannemark, C~M Lindgren, M~C Vohl, J~Nemesh, C~R Lane, S~F Schaffner, S~Bolk, C~Brewer, T~Tuomi, D~Gaudet, T~J Hudson, M~Daly, L~Groop, and E~S Lander.
+\newblock The common {PPARgamma} {Pro12Ala} polymorphism is associated with decreased risk of type 2 diabetes.
+\newblock \emph{Nat. Genet.}, 26\penalty0 (1):\penalty0 76--80, September 2000.
+
+\bibitem[Heikkinen et~al.(2009)Heikkinen, Argmann, Feige, Koutnikova, Champy, Dali-Youcef, Schadt, Laakso, and Auwerx]{Heikkinen2009-vb}
+Sami Heikkinen, Carmen Argmann, J{\'e}r{\^o}me~N Feige, Hana Koutnikova, Marie-France Champy, Nassim Dali-Youcef, Eric~E Schadt, Markku Laakso, and Johan Auwerx.
+\newblock The {Pro12Ala} {PPAR$\gamma$2} variant determines metabolism at the {Gene-Environment} interface.
+\newblock \emph{Cell Metab.}, 9\penalty0 (1):\penalty0 88--98, July 2009.
+
+\bibitem[Pascual et~al.(2005)Pascual, Fong, Ogawa, Gamliel, Li, Perissi, Rose, Willson, Rosenfeld, and Glass]{Pascual2005-ki}
+Gabriel Pascual, Amy~L Fong, Sumito Ogawa, Amir Gamliel, Andrew~C Li, Valentina Perissi, David~W Rose, Timothy~M Willson, Michael~G Rosenfeld, and Christopher~K Glass.
+\newblock A {SUMOylation-dependent} pathway mediates transrepression of inflammatory response genes by {PPAR-gamma}.
+\newblock \emph{Nature}, 437\penalty0 (7059):\penalty0 759--763, September 2005.
+
+\bibitem[Katafuchi et~al.(2018)Katafuchi, Holland, Kollipara, Kittler, Mangelsdorf, and Kliewer]{Katafuchi2018-jw}
+Takeshi Katafuchi, William~L Holland, Rahul~K Kollipara, Ralf Kittler, David~J Mangelsdorf, and Steven~A Kliewer.
+\newblock {PPAR$\gamma$-K107} {SUMOylation} regulates insulin sensitivity but not adiposity in mice.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 115\penalty0 (48):\penalty0 12102--12111, November 2018.
+
+\bibitem[Majithia et~al.(2014)Majithia, Flannick, Shahinian, Guo, Bray, Fontanillas, Gabriel, Go, Project, Consortium, Consortium, Rosen, and Altshuler]{Majithia2014-op}
+A~R Majithia, J~Flannick, P~Shahinian, M~Guo, M~A Bray, P~Fontanillas, S~B Gabriel, T~D~Consortium Go, Nhgri Jhs Fhs Allelic~Spectrum Project, Sigma T~D Consortium, T~D~Genes Consortium, E~D Rosen, and D~Altshuler.
+\newblock Rare variants in {PPARG} with decreased activity in adipocyte differentiation are associated with increased risk of type 2 diabetes.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 111\penalty0 (36):\penalty0 13127--13132, 2014.
+
+\bibitem[Norris et~al.(2003)Norris, Chen, Fisher, Szanto, Ristow, Jozsi, Hirshman, Rosen, Goodyear, Gonzalez, Spiegelman, and Kahn]{Norris2003-hi}
+Andrew~W Norris, Lihong Chen, Simon~J Fisher, Ildiko Szanto, Michael Ristow, Alison~C Jozsi, Michael~F Hirshman, Evan~D Rosen, Laurie~J Goodyear, Frank~J Gonzalez, Bruce~M Spiegelman, and C~Ronald Kahn.
+\newblock Muscle-specific {PPAR$\gamma$-deficient} mice develop increased adiposity and insulin resistance but respond to thiazolidinediones.
+\newblock \emph{J. Clin. Invest.}, 112\penalty0 (4):\penalty0 608--618, August 2003.
+
+\bibitem[Gavrilova et~al.(2003)Gavrilova, Haluzik, Matsusue, Cutson, Johnson, Dietz, Nicol, Vinson, Gonzalez, and Reitman]{Gavrilova2003-gb}
+Oksana Gavrilova, Martin Haluzik, Kimihiko Matsusue, Jaime~J Cutson, Lisa Johnson, Kelly~R Dietz, Christopher~J Nicol, Charles Vinson, Frank~J Gonzalez, and Marc~L Reitman.
+\newblock Liver peroxisome proliferator-activated receptor $\gamma$ contributes to hepatic steatosis, triglyceride clearance, and regulation of body fat mass *.
+\newblock \emph{J. Biol. Chem.}, 278\penalty0 (36):\penalty0 34268--34276, September 2003.
+
+\bibitem[Doench et~al.(2016)Doench, Fusi, Sullender, Hegde, Vaimberg, Donovan, Smith, Tothova, Wilen, Orchard, Virgin, Listgarten, and Root]{Doench2016-za}
+John~G Doench, Nicolo Fusi, Meagan Sullender, Mudra Hegde, Emma~W Vaimberg, Katherine~F Donovan, Ian Smith, Zuzana Tothova, Craig Wilen, Robert Orchard, Herbert~W Virgin, Jennifer Listgarten, and David~E Root.
+\newblock Optimized {sgRNA} design to maximize activity and minimize off-target effects of {CRISPR-Cas9}.
+\newblock \emph{Nat. Biotechnol.}, 34\penalty0 (2):\penalty0 184--191, February 2016.
+
+\bibitem[Engler et~al.(2008)Engler, Kandzia, and Marillonnet]{Engler2008-in}
+Carola Engler, Romy Kandzia, and Sylvestre Marillonnet.
+\newblock A one pot, one step, precision cloning method with high throughput capability.
+\newblock \emph{PLoS One}, 3\penalty0 (11):\penalty0 e3647, November 2008.
+
+\bibitem[Heinz et~al.(2018)Heinz, Texari, Hayes, Urbanowski, Chang, Givarkes, Rialdi, White, Albrecht, Pache, Marazzi, Garc{\'\i}a-Sastre, Shaw, and Benner]{Heinz2018-mp}
+Sven Heinz, Lorane Texari, Michael G~B Hayes, Matthew Urbanowski, Max~W Chang, Ninvita Givarkes, Alexander Rialdi, Kris~M White, Randy~A Albrecht, Lars Pache, Ivan Marazzi, Adolfo Garc{\'\i}a-Sastre, Megan~L Shaw, and Christopher Benner.
+\newblock Transcription elongation can affect genome {3D} structure.
+\newblock \emph{Cell}, 174\penalty0 (6):\penalty0 1522--1536.e22, September 2018.
+
+\bibitem[Bray et~al.(2016)Bray, Pimentel, Melsted, and Pachter]{Bray2016-zt}
+Nicolas~L Bray, Harold Pimentel, P{\'a}ll Melsted, and Lior Pachter.
+\newblock Near-optimal probabilistic {RNA-seq} quantification.
+\newblock \emph{Nat. Biotechnol.}, 34\penalty0 (5):\penalty0 525--527, May 2016.
+
+\bibitem[Robinson et~al.(2010)Robinson, McCarthy, and Smyth]{Robinson2010-qx}
+Mark~D Robinson, Davis~J McCarthy, and Gordon~K Smyth.
+\newblock edger: a bioconductor package for differential expression analysis of digital gene expression data.
+\newblock \emph{Bioinformatics}, 26\penalty0 (1):\penalty0 139--140, January 2010.
+
+\bibitem[Law et~al.(2014)Law, Chen, Shi, and Smyth]{Law2014-yh}
+Charity~W Law, Yunshun Chen, Wei Shi, and Gordon~K Smyth.
+\newblock voom: Precision weights unlock linear model analysis tools for {RNA-seq} read counts.
+\newblock \emph{Genome Biol.}, 15\penalty0 (2):\penalty0 R29, February 2014.
+
+\bibitem[Lex et~al.(2014)Lex, Gehlenborg, Strobelt, Vuillemot, and Pfister]{Lex2014-lr}
+Alexander Lex, Nils Gehlenborg, Hendrik Strobelt, Romain Vuillemot, and Hanspeter Pfister.
+\newblock {UpSet}: Visualization of intersecting sets.
+\newblock \emph{IEEE Trans. Vis. Comput. Graph.}, 20\penalty0 (12):\penalty0 1983--1992, December 2014.
+
+\bibitem[Conway et~al.(2017)Conway, Lex, and Gehlenborg]{Conway2017-hp}
+Jake~R Conway, Alexander Lex, and Nils Gehlenborg.
+\newblock {UpSetR}: an {R} package for the visualization of intersecting sets and their properties.
+\newblock \emph{Bioinformatics}, 33\penalty0 (18):\penalty0 2938--2940, September 2017.
+
+\bibitem[Korotkevich et~al.(2021)Korotkevich, Sukhov, Budin, Shpak, Artyomov, and Sergushichev]{Korotkevich2021-ra}
+Gennady Korotkevich, Vladimir Sukhov, Nikolay Budin, Boris Shpak, Maxim~N Artyomov, and Alexey Sergushichev.
+\newblock Fast gene set enrichment analysis.
+\newblock February 2021.
+
+\bibitem[Livak and Schmittgen(2001)]{Livak2001-va}
+K~J Livak and T~D Schmittgen.
+\newblock Analysis of relative gene expression data using real-time quantitative {PCR} and the 2(-delta delta {C(T)}) method.
+\newblock \emph{Methods}, 25\penalty0 (4):\penalty0 402--408, December 2001.
+
+\end{thebibliography}

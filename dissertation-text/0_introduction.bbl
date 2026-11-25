@@ -1,0 +1,138 @@
+\begin{thebibliography}{26}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[James et~al.(2021)James, St{\"o}ckli, and Birnbaum]{James2021-vu}
+David~E James, Jacqueline St{\"o}ckli, and Morris~J Birnbaum.
+\newblock The aetiology and molecular landscape of insulin resistance.
+\newblock \emph{Nat. Rev. Mol. Cell Biol.}, 22\penalty0 (11):\penalty0 751--771, November 2021.
+
+\bibitem[Adeva-Andany et~al.(2019)Adeva-Andany, Mart{\'\i}nez-Rodr{\'\i}guez, Gonz{\'a}lez-Luc{\'a}n, Fern{\'a}ndez-Fern{\'a}ndez, and Castro-Quintela]{Adeva-Andany2019-df}
+Mar{\'\i}a~M Adeva-Andany, Julia Mart{\'\i}nez-Rodr{\'\i}guez, Manuel Gonz{\'a}lez-Luc{\'a}n, Carlos Fern{\'a}ndez-Fern{\'a}ndez, and Elvira Castro-Quintela.
+\newblock Insulin resistance is a cardiovascular risk factor in humans.
+\newblock \emph{Diabetes Metab. Syndr.}, 13\penalty0 (2):\penalty0 1449--1455, February 2019.
+
+\bibitem[Park et~al.(2024)Park, Kim, Kim, Kim, Kim, Ahn, Kim, Song, Shim, Jung, Cho, Lim, Hong, Jo, Fahed, Natarajan, Ellinor, Torkamani, Park, Yu, Myung, and Won]{Park2024-da}
+Sanghyeon Park, Soyeon Kim, Beomsu Kim, Dan~Say Kim, Jaeyoung Kim, Yeeun Ahn, Hyejin Kim, Minku Song, Injeong Shim, Sang-Hyuk Jung, Chamlee Cho, Soohyun Lim, Sanghoon Hong, Hyeonbin Jo, Akl~C Fahed, Pradeep Natarajan, Patrick~T Ellinor, Ali Torkamani, Woong-Yang Park, Tae~Yang Yu, Woojae Myung, and Hong-Hee Won.
+\newblock Multivariate genomic analysis of 5 million people elucidates the genetic architecture of shared components of the metabolic syndrome.
+\newblock \emph{Nat. Genet.}, 56\penalty0 (11):\penalty0 2380--2391, November 2024.
+
+\bibitem[Yki-J{\"a}rvinen(2004)]{Yki-Jarvinen2004-bc}
+Hannele Yki-J{\"a}rvinen.
+\newblock Thiazolidinediones.
+\newblock \emph{N. Engl. J. Med.}, 351\penalty0 (11):\penalty0 1106--1118, September 2004.
+
+\bibitem[Kernan et~al.(2016)Kernan, Viscoli, Furie, Young, Inzucchi, Gorman, Guarino, Lovejoy, Peduzzi, Conwit, Brass, Schwartz, Adams, Berger, Carolei, Clark, Coull, Ford, Kleindorfer, O'Leary, Parsons, Ringleb, Sen, Spence, Tanne, Wang, Winder, and {IRIS Trial Investigators}]{Kernan2016-as}
+Walter~N Kernan, Catherine~M Viscoli, Karen~L Furie, Lawrence~H Young, Silvio~E Inzucchi, Mark Gorman, Peter~D Guarino, Anne~M Lovejoy, Peter~N Peduzzi, Robin Conwit, Lawrence~M Brass, Gregory~G Schwartz, Harold~P Adams, Jr, Leo Berger, Antonio Carolei, Wayne Clark, Bruce Coull, Gary~A Ford, Dawn Kleindorfer, John~R O'Leary, Mark~W Parsons, Peter Ringleb, Souvik Sen, J~David Spence, David Tanne, David Wang, Toni~R Winder, and {IRIS Trial Investigators}.
+\newblock Pioglitazone after ischemic stroke or transient ischemic attack.
+\newblock \emph{N. Engl. J. Med.}, 374\penalty0 (14):\penalty0 1321--1331, April 2016.
+
+\bibitem[Musso et~al.(2017)Musso, Cassader, Paschetta, and Gambino]{Musso2017-xi}
+Giovanni Musso, Maurizio Cassader, Elena Paschetta, and Roberto Gambino.
+\newblock Thiazolidinediones and advanced liver fibrosis in nonalcoholic steatohepatitis: A meta-analysis.
+\newblock \emph{JAMA Intern. Med.}, 177\penalty0 (5):\penalty0 633--640, May 2017.
+
+\bibitem[Arnold et~al.(2019)Arnold, Inzucchi, Echouffo-Tcheugui, Tang, Lam, Sperling, and Kosiborod]{Arnold2019-kq}
+Suzanne~V Arnold, Silvio~E Inzucchi, Justin~B Echouffo-Tcheugui, Fengming Tang, Carolyn S~P Lam, Laurence~S Sperling, and Mikhail Kosiborod.
+\newblock Understanding contemporary use of thiazolidinediones.
+\newblock \emph{Circ. Heart Fail.}, 12\penalty0 (6):\penalty0 e005855, June 2019.
+
+\bibitem[DePaoli et~al.(2014)DePaoli, Higgins, Henry, Mantzoros, Dunn, and {INT131-007 Study Group}]{DePaoli2014-lp}
+Alex~M DePaoli, Linda~S Higgins, Robert~R Henry, Christos Mantzoros, Fredrick~L Dunn, and {INT131-007 Study Group}.
+\newblock Can a selective {PPAR$\gamma$} modulator improve glycemic control in patients with type 2 diabetes with fewer side effects compared with pioglitazone?
+\newblock \emph{Diabetes Care}, 37\penalty0 (7):\penalty0 1918--1923, July 2014.
+
+\bibitem[Higgins and Depaoli(2010)]{Higgins2010-yv}
+Linda~Slanec Higgins and Alex~M Depaoli.
+\newblock Selective peroxisome proliferator-activated receptor gamma ({PPARgamma}) modulation as a strategy for safer therapeutic {PPARgamma} activation.
+\newblock \emph{Am. J. Clin. Nutr.}, 91\penalty0 (1):\penalty0 267S--272S, January 2010.
+
+\bibitem[Zhang et~al.(2024)Zhang, Pan, Zhang, and Tong]{Zhang2024-sl}
+Fang Zhang, Xiaohui Pan, Xinyue Zhang, and Nanwei Tong.
+\newblock The effect of thiazolidinediones on body fat redistribution in adults: A systematic review and meta-analysis of randomized controlled trials.
+\newblock \emph{Obes. Rev.}, 25\penalty0 (3):\penalty0 e13675, March 2024.
+
+\bibitem[Sebo and Rodeheffer(2019)]{Sebo2019-nh}
+Zachary~L Sebo and Matthew~S Rodeheffer.
+\newblock Assembling the adipose organ: adipocyte lineage segregation and adipogenesis in vivo.
+\newblock \emph{Development}, 146\penalty0 (7):\penalty0 dev172098, April 2019.
+
+\bibitem[Sakers et~al.(2022)Sakers, De~Siqueira, Seale, and Villanueva]{Sakers2022-wb}
+Alexander Sakers, Mirian~Krystel De~Siqueira, Patrick Seale, and Claudio~J Villanueva.
+\newblock Adipose-tissue plasticity in health and disease.
+\newblock \emph{Cell}, 185\penalty0 (3):\penalty0 419--446, February 2022.
+
+\bibitem[Mathur et~al.(2022)Mathur, Severinsen, Jensen, Naver, Schr{\"o}lkamp, Laye, Watt, Nielsen, Krogh-Madsen, Pedersen, and Scheele]{Mathur2022-fx}
+Neha Mathur, Mai C~K Severinsen, Mette~E Jensen, Lars Naver, Maren Schr{\"o}lkamp, Matthew~J Laye, Matthew~J Watt, S{\o}ren Nielsen, Rikke Krogh-Madsen, Bente~Klarlund Pedersen, and Camilla Scheele.
+\newblock Human visceral and subcutaneous adipose stem and progenitor cells retain depot-specific adipogenic properties during obesity.
+\newblock \emph{Front Cell Dev Biol}, 10:\penalty0 983899, October 2022.
+
+\bibitem[Agrawal et~al.(2023)Agrawal, Klarqvist, Diamant, Stanley, Ellinor, Mehta, Philippakis, Ng, Claussnitzer, Grinspoon, Batra, and Khera]{Agrawal2023-ee}
+Saaket Agrawal, Marcus D~R Klarqvist, Nathaniel Diamant, Takara~L Stanley, Patrick~T Ellinor, Nehal~N Mehta, Anthony Philippakis, Kenney Ng, Melina Claussnitzer, Steven~K Grinspoon, Puneet Batra, and Amit~V Khera.
+\newblock {BMI-adjusted} adipose tissue volumes exhibit depot-specific and divergent associations with cardiometabolic diseases.
+\newblock \emph{Nat. Commun.}, 14\penalty0 (1):\penalty0 266, January 2023.
+
+\bibitem[Ahn et~al.(2019)Ahn, Wu, and Lee]{Ahn2019-us}
+Jinsoo Ahn, Huiguang Wu, and Kichoon Lee.
+\newblock Integrative analysis revealing human {Adipose-Specific} genes and consolidating obesity loci.
+\newblock \emph{Sci. Rep.}, 9\penalty0 (1):\penalty0 3087, February 2019.
+
+\bibitem[Passaro et~al.(2017)Passaro, Miselli, Sanz, Dalla~Nora, Morieri, Colonna, Pi{\v s}ot, and Zuliani]{Passaro2017-zk}
+Angelina Passaro, Maria~Agata Miselli, Juana~Maria Sanz, Edoardo Dalla~Nora, Mario~Luca Morieri, Rossella Colonna, Rado Pi{\v s}ot, and Giovanni Zuliani.
+\newblock Gene expression regional differences in human subcutaneous adipose tissue.
+\newblock \emph{BMC Genomics}, 18\penalty0 (1):\penalty0 202, February 2017.
+
+\bibitem[Gesta et~al.(2006)Gesta, Bl{\"u}her, Yamamoto, Norris, Berndt, Kralisch, Boucher, Lewis, and Kahn]{Gesta2006-so}
+Stephane Gesta, Matthias Bl{\"u}her, Yuji Yamamoto, Andrew~W Norris, Janin Berndt, Susan Kralisch, Jeremie Boucher, Choy Lewis, and C~Ronald Kahn.
+\newblock Evidence for a role of developmental genes in the origin of obesity and body fat distribution.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 103\penalty0 (17):\penalty0 6676--6681, April 2006.
+
+\bibitem[Tchkonia et~al.(2007)Tchkonia, Lenburg, Thomou, Giorgadze, Frampton, Pirtskhalava, Cartwright, Cartwright, Flanagan, Karagiannides, Gerry, Forse, Tchoukalova, Jensen, Pothoulakis, and Kirkland]{Tchkonia2007-xa}
+Tamara Tchkonia, Marc Lenburg, Thomas Thomou, Nino Giorgadze, Garrett Frampton, Tamar Pirtskhalava, Andrew Cartwright, Mark Cartwright, John Flanagan, Iordanes Karagiannides, Norman Gerry, R~Armour Forse, Yourka Tchoukalova, Michael~D Jensen, Charalabos Pothoulakis, and James~L Kirkland.
+\newblock Identification of depot-specific human fat cell progenitors through distinct expression profiles and developmental gene patterns.
+\newblock \emph{Am. J. Physiol. Endocrinol. Metab.}, 292\penalty0 (1):\penalty0 E298--307, January 2007.
+
+\bibitem[Wajchenberg et~al.(2002)Wajchenberg, Giannella-Neto, da~Silva, and Santos]{Wajchenberg2002-pt}
+B~L Wajchenberg, D~Giannella-Neto, M~E da~Silva, and R~F Santos.
+\newblock Depot-specific hormonal characteristics of subcutaneous and visceral adipose tissue and their relation to the metabolic syndrome.
+\newblock \emph{Horm. Metab. Res.}, 34\penalty0 (11-12):\penalty0 616--621, November 2002.
+
+\bibitem[Lee and Fried(2010)]{Lee2010-fl}
+Mi-Jeong Lee and Susan~K Fried.
+\newblock Depot-specific biology of adipose tissues: Links to fat distribution and metabolic risk.
+\newblock In \emph{Adipose Tissue in Health and Disease}, pages 283--306. Wiley-VCH Verlag GmbH \& Co. KGaA, Weinheim, Germany, April 2010.
+
+\bibitem[Wang et~al.(2021)Wang, Dhindsa, Carss, Harper, Nag, Tachmazidou, Vitsios, Deevi, Mackay, Muthas, H{\"u}hn, Monkley, Olsson, {AstraZeneca Genomics Initiative}, Wasilewski, Smith, March, Platt, Haefliger, and Petrovski]{Wang2021-au}
+Quanli Wang, Ryan~S Dhindsa, Keren Carss, Andrew~R Harper, Abhishek Nag, Ioanna Tachmazidou, Dimitrios Vitsios, Sri V~V Deevi, Alex Mackay, Daniel Muthas, Michael H{\"u}hn, Susan Monkley, Henric Olsson, {AstraZeneca Genomics Initiative}, Sebastian Wasilewski, Katherine~R Smith, Ruth March, Adam Platt, Carolina Haefliger, and Slav{\'e} Petrovski.
+\newblock Rare variant contribution to human disease in 281,104 {UK} biobank exomes.
+\newblock \emph{Nature}, 597\penalty0 (7877):\penalty0 527--532, September 2021.
+
+\bibitem[Farrell(2017)]{Farrell2017-lq}
+Robert~E Farrell, Jr.
+\newblock Functional genomics and transcript profiling.
+\newblock In \emph{{RNA} Methodologies}, pages 685--695. Elsevier, 2017.
+
+\bibitem[Datlinger et~al.(2017)Datlinger, Rendeiro, Schmidl, Krausgruber, Traxler, Klughammer, Schuster, Kuchler, Alpar, and Bock]{Datlinger2017-yc}
+Paul Datlinger, Andr{\'e}~F Rendeiro, Christian Schmidl, Thomas Krausgruber, Peter Traxler, Johanna Klughammer, Linda~C Schuster, Amelie Kuchler, Donat Alpar, and Christoph Bock.
+\newblock Pooled {CRISPR} screening with single-cell transcriptome readout.
+\newblock \emph{Nat. Methods}, 14\penalty0 (3):\penalty0 297--301, March 2017.
+
+\bibitem[Dixit et~al.(2016)Dixit, Parnas, Li, Chen, Fulco, Jerby-Arnon, Marjanovic, Dionne, Burks, Raychowdhury, Adamson, Norman, Lander, Weissman, Friedman, and Regev]{Dixit2016-yg}
+Atray Dixit, Oren Parnas, Biyu Li, Jenny Chen, Charles~P Fulco, Livnat Jerby-Arnon, Nemanja~D Marjanovic, Danielle Dionne, Tyler Burks, Raktima Raychowdhury, Britt Adamson, Thomas~M Norman, Eric~S Lander, Jonathan~S Weissman, Nir Friedman, and Aviv Regev.
+\newblock {Perturb-Seq}: Dissecting molecular circuits with scalable {Single-Cell} {RNA} profiling of pooled genetic screens.
+\newblock \emph{Cell}, 167\penalty0 (7):\penalty0 1853--1866.e17, December 2016.
+
+\bibitem[Majithia et~al.(2016)Majithia, Tsuda, Agostini, Gnanapradeepan, Rice, Peloso, Patel, Zhang, Broekema, Patterson, Duby, Sharpe, Kalkhoven, Rosen, Barroso, Ellard, {UK Monogenic Diabetes Consortium}, Kathiresan, {Myocardial Infarction Genetics Consortium}, O'Rahilly, {UK Congenital Lipodystrophy Consortium}, Chatterjee, Florez, Mikkelsen, Savage, and Altshuler]{Majithia2016-bm}
+Amit~R Majithia, Ben Tsuda, Maura Agostini, Keerthana Gnanapradeepan, Robert Rice, Gina Peloso, Kashyap~A Patel, Xiaolan Zhang, Marjoleine~F Broekema, Nick Patterson, Marc Duby, Ted Sharpe, Eric Kalkhoven, Evan~D Rosen, In{\^e}s Barroso, Sian Ellard, {UK Monogenic Diabetes Consortium}, Sekar Kathiresan, {Myocardial Infarction Genetics Consortium}, Stephen O'Rahilly, {UK Congenital Lipodystrophy Consortium}, Krishna Chatterjee, Jose~C Florez, Tarjei Mikkelsen, David~B Savage, and David Altshuler.
+\newblock Prospective functional classification of all possible missense variants in {PPARG}.
+\newblock \emph{Nat. Genet.}, 48\penalty0 (12):\penalty0 1570--1575, December 2016.
+
+\bibitem[Agostini et~al.(2018)Agostini, Schoenmakers, Beig, Fairall, Szatmari, Rajanayagam, Muskett, Adams, Marais, O'Rahilly, Semple, Nagy, Majithia, Schwabe, Blom, Murphy, Chatterjee, and Savage]{Agostini2018-bx}
+Maura Agostini, Erik Schoenmakers, Junaid Beig, Louise Fairall, Istvan Szatmari, Odelia Rajanayagam, Frederick~W Muskett, Claire Adams, A~David Marais, Stephen O'Rahilly, Robert~K Semple, Laszlo Nagy, Amit~R Majithia, John W~R Schwabe, Dirk~J Blom, Rinki Murphy, Krishna Chatterjee, and David~B Savage.
+\newblock A pharmacogenetic approach to the treatment of patients with {PPARG} mutations.
+\newblock \emph{Diabetes}, 67\penalty0 (6):\penalty0 1086--1092, June 2018.
+
+\end{thebibliography}

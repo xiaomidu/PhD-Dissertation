@@ -1,0 +1,83 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Yki-J{\"a}rvinen(2004)]{Yki-Jarvinen2004-bc}
+Hannele Yki-J{\"a}rvinen.
+\newblock Thiazolidinediones.
+\newblock \emph{N. Engl. J. Med.}, 351\penalty0 (11):\penalty0 1106--1118, September 2004.
+
+\bibitem[Tontonoz and Spiegelman(2008)]{Tontonoz2008-pe}
+Peter Tontonoz and Bruce~M Spiegelman.
+\newblock Fat and beyond: the diverse biology of {PPARgamma}.
+\newblock \emph{Annu. Rev. Biochem.}, 77:\penalty0 289--312, 2008.
+
+\bibitem[Preis et~al.(2010)Preis, Massaro, Robins, Hoffmann, Vasan, Irlbeck, Meigs, Sutherland, D'Agostino, O'Donnell, and Fox]{Preis2010-eh}
+Sarah~R Preis, Joseph~M Massaro, Sander~J Robins, Udo Hoffmann, Ramachandran~S Vasan, Thomas Irlbeck, James~B Meigs, Patrice Sutherland, Ralph~B D'Agostino, Sr, Christopher~J O'Donnell, and Caroline~S Fox.
+\newblock Abdominal subcutaneous and visceral adipose tissue and insulin resistance in the framingham heart study.
+\newblock \emph{Obesity (Silver Spring)}, 18\penalty0 (11):\penalty0 2191--2198, November 2010.
+
+\bibitem[Agrawal et~al.(2023)Agrawal, Klarqvist, Diamant, Stanley, Ellinor, Mehta, Philippakis, Ng, Claussnitzer, Grinspoon, Batra, and Khera]{Agrawal2023-ee}
+Saaket Agrawal, Marcus D~R Klarqvist, Nathaniel Diamant, Takara~L Stanley, Patrick~T Ellinor, Nehal~N Mehta, Anthony Philippakis, Kenney Ng, Melina Claussnitzer, Steven~K Grinspoon, Puneet Batra, and Amit~V Khera.
+\newblock {BMI-adjusted} adipose tissue volumes exhibit depot-specific and divergent associations with cardiometabolic diseases.
+\newblock \emph{Nat. Commun.}, 14\penalty0 (1):\penalty0 266, January 2023.
+
+\bibitem[Bradford et~al.(2019)Bradford, Nair, Statham, van Dijk, Peters, Anwar, French, von Martels, Sutcliffe, Maddugoda, Peranec, Varinli, Arnoldy, Buckley, Ross, Zotenko, Song, Stirzaker, Bauer, Qu, Swarbrick, Lutgers, Lord, Samaras, Molloy, and Clark]{Bradford2019-ps}
+Stephen~T Bradford, Shalima~S Nair, Aaron~L Statham, Susan~J van Dijk, Timothy~J Peters, Firoz Anwar, Hugh~J French, Julius Z~H von Martels, Brodie Sutcliffe, Madhavi~P Maddugoda, Michelle Peranec, Hilal Varinli, Rosanna Arnoldy, Michael Buckley, Jason~P Ross, Elena Zotenko, Jenny~Z Song, Clare Stirzaker, Denis~C Bauer, Wenjia Qu, Michael~M Swarbrick, Helen~L Lutgers, Reginald~V Lord, Katherine Samaras, Peter~L Molloy, and Susan~J Clark.
+\newblock Methylome and transcriptome maps of human visceral and subcutaneous adipocytes reveal key epigenetic differences at developmental genes.
+\newblock \emph{Sci. Rep.}, 9\penalty0 (1):\penalty0 9511, July 2019.
+
+\bibitem[Mathur et~al.(2022)Mathur, Severinsen, Jensen, Naver, Schr{\"o}lkamp, Laye, Watt, Nielsen, Krogh-Madsen, Pedersen, and Scheele]{Mathur2022-fx}
+Neha Mathur, Mai C~K Severinsen, Mette~E Jensen, Lars Naver, Maren Schr{\"o}lkamp, Matthew~J Laye, Matthew~J Watt, S{\o}ren Nielsen, Rikke Krogh-Madsen, Bente~Klarlund Pedersen, and Camilla Scheele.
+\newblock Human visceral and subcutaneous adipose stem and progenitor cells retain depot-specific adipogenic properties during obesity.
+\newblock \emph{Front Cell Dev Biol}, 10:\penalty0 983899, October 2022.
+
+\bibitem[Sebo and Rodeheffer(2019)]{Sebo2019-nh}
+Zachary~L Sebo and Matthew~S Rodeheffer.
+\newblock Assembling the adipose organ: adipocyte lineage segregation and adipogenesis in vivo.
+\newblock \emph{Development}, 146\penalty0 (7):\penalty0 dev172098, April 2019.
+
+\bibitem[Sakers et~al.(2022)Sakers, De~Siqueira, Seale, and Villanueva]{Sakers2022-wb}
+Alexander Sakers, Mirian~Krystel De~Siqueira, Patrick Seale, and Claudio~J Villanueva.
+\newblock Adipose-tissue plasticity in health and disease.
+\newblock \emph{Cell}, 185\penalty0 (3):\penalty0 419--446, February 2022.
+
+\bibitem[Du et~al.(2021)Du, DeForest, and Majithia]{Du2021-bq}
+Xiaomi Du, Natalie DeForest, and Amit~R Majithia.
+\newblock Human genetics to identify therapeutic targets for {NAFLD}: Challenges and opportunities.
+\newblock \emph{Front. Endocrinol. (Lausanne)}, 12:\penalty0 777075, December 2021.
+
+\bibitem[Eslam et~al.(2020)Eslam, Sanyal, George, and {International Consensus Panel}]{Eslam2020-ud}
+Mohammed Eslam, Arun~J Sanyal, Jacob George, and {International Consensus Panel}.
+\newblock {MAFLD}: A {Consensus-Driven} proposed nomenclature for metabolic associated fatty liver disease.
+\newblock \emph{Gastroenterology}, 158\penalty0 (7):\penalty0 1999--2014.e1, May 2020.
+
+\bibitem[Rinella et~al.(2023)Rinella, Lazarus, Ratziu, Francque, Sanyal, Kanwal, Romero, Abdelmalek, Anstee, Arab, Arrese, Bataller, Beuers, Boursier, Bugianesi, Byrne, Castro~Narro, Chowdhury, Cortez-Pinto, Cryer, Cusi, El-Kassas, Klein, Eskridge, Fan, Gawrieh, Guy, Harrison, Kim, Koot, Korenjak, Kowdley, Lacaille, Loomba, Mitchell-Thain, Morgan, Powell, Roden, Romero-G{\'o}mez, Silva, Singh, Sookoian, Spearman, Tiniakos, Valenti, Vos, Wong, Xanthakos, Yilmaz, Younossi, Hobbs, Villota-Rivas, Newsome, and {NAFLD Nomenclature consensus group}]{Rinella2023-oe}
+Mary~E Rinella, Jeffrey~V Lazarus, Vlad Ratziu, Sven~M Francque, Arun~J Sanyal, Fasiha Kanwal, Diana Romero, Manal~F Abdelmalek, Quentin~M Anstee, Juan~Pablo Arab, Marco Arrese, Ramon Bataller, Ulrich Beuers, Jerome Boursier, Elisabetta Bugianesi, Christopher~D Byrne, Graciela~E Castro~Narro, Abhijit Chowdhury, Helena Cortez-Pinto, Donna~R Cryer, Kenneth Cusi, Mohamed El-Kassas, Samuel Klein, Wayne Eskridge, Jiangao Fan, Samer Gawrieh, Cynthia~D Guy, Stephen~A Harrison, Seung~Up Kim, Bart~G Koot, Marko Korenjak, Kris~V Kowdley, Florence Lacaille, Rohit Loomba, Robert Mitchell-Thain, Timothy~R Morgan, Elisabeth~E Powell, Michael Roden, Manuel Romero-G{\'o}mez, Marcelo Silva, Shivaram~Prasad Singh, Silvia~C Sookoian, C~Wendy Spearman, Dina Tiniakos, Luca Valenti, Miriam~B Vos, Vincent Wai-Sun Wong, Stavra Xanthakos, Yusuf Yilmaz, Zobair Younossi, Ansley Hobbs, Marcela Villota-Rivas, Philip~N Newsome, and {NAFLD Nomenclature consensus group}.
+\newblock A multisociety delphi consensus statement on new fatty liver disease nomenclature.
+\newblock \emph{Hepatology}, 78\penalty0 (6):\penalty0 1966--1986, December 2023.
+
+\bibitem[Ram{\'\i}rez-Mej{\'\i}a et~al.(2024)Ram{\'\i}rez-Mej{\'\i}a, Jim{\'e}nez-Guti{\'e}rrez, Eslam, George, and M{\'e}ndez-S{\'a}nchez]{Ramirez-Mejia2024-jo}
+Mariana~Michelle Ram{\'\i}rez-Mej{\'\i}a, Carlos Jim{\'e}nez-Guti{\'e}rrez, Mohammed Eslam, Jacob George, and Nahum M{\'e}ndez-S{\'a}nchez.
+\newblock Breaking new ground: {MASLD} vs. {MAFLD-which} holds the key for risk stratification?
+\newblock \emph{Hepatol. Int.}, 18\penalty0 (1):\penalty0 168--178, February 2024.
+
+\bibitem[Kraja et~al.(2011)Kraja, Vaidya, Pankow, Goodarzi, Assimes, Kullo, Sovio, Mathias, Sun, Franceschini, Absher, Li, Zhang, Feitosa, Glazer, Haritunians, Hartikainen, Knowles, North, Iribarren, Kral, Yanek, O'Reilly, McCarthy, Jaquish, Couper, Chakravarti, Psaty, Becker, Province, Boerwinkle, Quertermous, Palotie, Jarvelin, Becker, Kardia, Rotter, Chen, and Borecki]{Kraja2011-ja}
+Aldi~T Kraja, Dhananjay Vaidya, James~S Pankow, Mark~O Goodarzi, Themistocles~L Assimes, Iftikhar~J Kullo, Ulla Sovio, Rasika~A Mathias, Yan~V Sun, Nora Franceschini, Devin Absher, Guo Li, Qunyuan Zhang, Mary~F Feitosa, Nicole~L Glazer, Talin Haritunians, Anna-Liisa Hartikainen, Joshua~W Knowles, Kari~E North, Carlos Iribarren, Brian Kral, Lisa Yanek, Paul~F O'Reilly, Mark~I McCarthy, Cashell Jaquish, David~J Couper, Aravinda Chakravarti, Bruce~M Psaty, Lewis~C Becker, Michael~A Province, Eric Boerwinkle, Thomas Quertermous, Leena Palotie, Marjo-Riitta Jarvelin, Diane~M Becker, Sharon L~R Kardia, Jerome~I Rotter, Yii-Der~Ida Chen, and Ingrid~B Borecki.
+\newblock A bivariate genome-wide approach to metabolic syndrome: {STAMPEED} consortium.
+\newblock \emph{Diabetes}, 60\penalty0 (4):\penalty0 1329--1339, April 2011.
+
+\bibitem[Gurka et~al.(2014)Gurka, Lilly, Oliver, and DeBoer]{Gurka2014-ib}
+Matthew~J Gurka, Christa~L Lilly, M~Norman Oliver, and Mark~D DeBoer.
+\newblock An examination of sex and racial/ethnic differences in the metabolic syndrome among adults: a confirmatory factor analysis and a resulting continuous severity score.
+\newblock \emph{Metabolism}, 63\penalty0 (2):\penalty0 218--225, February 2014.
+
+\bibitem[Park et~al.(2024)Park, Kim, Kim, Kim, Kim, Ahn, Kim, Song, Shim, Jung, Cho, Lim, Hong, Jo, Fahed, Natarajan, Ellinor, Torkamani, Park, Yu, Myung, and Won]{Park2024-da}
+Sanghyeon Park, Soyeon Kim, Beomsu Kim, Dan~Say Kim, Jaeyoung Kim, Yeeun Ahn, Hyejin Kim, Minku Song, Injeong Shim, Sang-Hyuk Jung, Chamlee Cho, Soohyun Lim, Sanghoon Hong, Hyeonbin Jo, Akl~C Fahed, Pradeep Natarajan, Patrick~T Ellinor, Ali Torkamani, Woong-Yang Park, Tae~Yang Yu, Woojae Myung, and Hong-Hee Won.
+\newblock Multivariate genomic analysis of 5 million people elucidates the genetic architecture of shared components of the metabolic syndrome.
+\newblock \emph{Nat. Genet.}, 56\penalty0 (11):\penalty0 2380--2391, November 2024.
+
+\end{thebibliography}

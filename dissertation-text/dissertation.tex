@@ -31,22 +31,27 @@
 \usepackage{url}
 
 \usepackage[super,sort&compress]{natbib}
+% The following package was added to add one bibliography per chapter
+\usepackage[sectionbib]{chapterbib}
 
 \overfullrule5pt
 
+% Added for merged rows
+\usepackage{multirow}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Thesis Title & Author Information
-\title{Computational Frameworks for Functional Subcellular Analysis of Spatial Transcriptomics Data}
-\author{Clarence K. Mah}
+\title{Integrating Functional Genomics and Human Genetics to Identify Causal Mechanisms for Insulin Resistance}
+\author{Xiaomi Du}
 \degree{Bioinformatics \& Systems Biology}{Doctor of Philosophy}
 
 % Thesis Committee Members
-\chair{Professor Hannah Carter}
-\cochair{Professor Gene Yeo} 
-\committee{Professor Nate Lewis} % alphabetical order required
-\committee{Professor Samara Reck-Peterson}
-\committee{Professor Bing Ren}
-\degreeyear{2023}
+\chair{Professor Amit R. Majithia}
+\cochair{Professor Christopher Glass} 
+\committee{Professor Alejandro Chavez} % alphabetical order required
+\committee{Professor Terry Gaasterland}
+\committee{Professor Yury Miller}
+\degreeyear{2026}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -66,31 +71,12 @@
 	\vskip0pt plus.25fil
 	\begin{center}
 		
-		$\cdots$
-
-		This dissertation is dedicated to my parents and sister,\\
-		for believing in my journey into the unknown.\\
+		This dissertation is dedicated to my family, friends, and scientific mentors.
+		
+		Thank you for your support. I could not have done this without you. 
 		
 	\end{center}
 \end{dedication}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Epigraph
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{epigraph}
-	\vskip0pt plus.5fil
-	\vfil\vfil
-	\setsinglespacing{}
-	{ \flushright{
-		Moral courage is a rarer commodity than bravery in battle or great intelligence.\\
-		Yet it is the one essential, vital quality for those who seek to change a world\\
-		that yields most painfully to change.\\
-		}
-		\vskip\baselineskip{}
-		- \textit{Robert Kennedy}\par
-	}
-	\vfil\vfil\vfil
-\end{epigraph}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Table of Contents, Figures, Tables, Etc.
@@ -108,7 +94,22 @@
 % Acknowledgements
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{acknowledgements}
-	I would like to thank the following people for their support throughout my graduate school journey. Hannah Carter and Gene Yeo for being a pair of trusting, insightful and inspiring advisors and providing me as many as four separate offices in my graduate career. Nate Lewis for pushing me to always think about the bigger picture in terms of both my research and career. Samara Reck-Peterson and Bing Ren for their thoughtful suggestions. My partner, Michelle Ragsac, for always being my number one advocate, grounding me in reality, and for sharing my enthusiasm for food. My dog, Yuuki, for accompanying me for the entirety of my graduate education (she deserves a "PhDoggo" of her own). My parents and sister for providing me a home and environment to get away and decompress. Noorsher Ahmed for all the wild brainstorming sessions, last minute sprints to materialize results on crazy deadlines, and late night milk tea runs.  Andrea Castro for keeping me company in our almost windowless offices. Kivilcim Ozturk for being my long time office buddy and Michelle Dow for being an inspirational role model, for all the invaluable scientific and life advice she gave me at the start of my PhD, for bestowing her desk to me and for taking Yuuki on walks when I got stuck in meetings all day. Adam Klie, James Talwar, and David Laub for entertaining my philisophical rants on software design and machine learning. Erick Armingol and Cameron Martino whose work on tensor decomposition inspired my own research. Bruce Hamilton for showing me the importance of sticking to my scientific and moral principles. The Yeo lab for being an amazing collaborative research environment. The Carter lab for a supporting my work life balance. The Bioinformatics and Systems Biology program for being my support network when I needed it most and fighting for my rights as a graduate student researcher. 
+
+\noindent Thank you to everyone who joined me on this journey. 
+
+Chapters 1 and 2, in full, are modified for this thesis from the material in Diabetes 2025. The dissertation/thesis author was the primary investigator and author of this paper. I would like to acknowledge my co-authors for the research in Chapters 1 and 2, Karen Mendez-Lara, Siqi Hu, Rachel Diao, Guru Bhavimani, Ruben Hernandez, Kimberly Glass, Camila De Arruda Saldanha, Jason Flannick, Sven Heinz, and Amit Majithia. Thank you for the years of teamwork, weekly meetings, and too many plates of cells.
+
+I would also like to thank my committee members for all their support. Amit Majithia, for taking me on as a graduate student. Chris Glass, for all the advice from first year to my last. Yury Miller, for patiently answering all my questions about macrophages and lipids. Alex Chavez, for his insight on genetic screens and CRISPRa. Terry Gaasterland, for always pushing me to succeed. There are not enough words to express my gratitude. 
+
+Thank you to my mom and dad, who always believed in me, even when I did not. To my brother, Yulin, for inspiring me every day. To my yeye, who liked problem solving through reading books. To all of my family, for their love and support, even from afar. 
+
+Thank you to my friends for filling this experience with laughter, hope, and great food. To Courtney Chen, for always seeing potential in me. To Grace Park, who never gave up on me. To Michelle Ragsac-Mah, the best landlord I could ever ask for. To my graduate school roommates, Alexa Rodriguez, Vanessa Yu, Dinah Shi, Clarence Mah, and Alex Wenzel. To Nena, Arabella, Chloe, Daisy, and Yuuki, for being the best emotional support. To all my hiking buddies, the Saturday b(run)ch club, the cute bioinfo group, the reality tv crew, and everyone else who brought joy to these years - thank you thank you thank you.
+
+Thank you to UCSD and the BISB community, all the faculty, staff, and students who helped along the way. To Hagit Neta, Rizaldy Zapata, Maryam Jalali, and Alex Blee, for keeping the lab running with your wisdom. To Rachel Diao, Karen Mendez-Lara, Guru Bhavimani, Siqi Hu, and Camila De Arruda Saldanha, for all the shared wet lab guidance and support. To the bioinformatics corner, Natalie DeForest, Emily Kobayashi, and Michelle Wang. To GTP and Bruce Hamilton, for training me to be a better scientist. 
+
+Thank you to Demetrios Braddock, for accepting a high school junior into your lab and teaching me the joy of scientific research. To David Baltimore and Arnav Mehta, for giving me the opportunity to learn and perform cutting edge science. To Ci Chu and Charlie Kim, for inspiring my interest in computational biology and functional genomics. And to Taylor Oniskey, for convincing me to apply for graduate school.	
+
+Thank you, all. 
 \end{acknowledgements}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -118,13 +119,11 @@
 \noindent
 \begin{cv}{}
 \begin{cvlist}{}
-	\item[2012] High School Diploma\\
-		Lynbrook High School
-	\item[2012--2016] B.S. in Bioengineering: Bioinformatics\\
-		University of California San Diego
-	\item[2016--2018] Associate Computational Biologist\\
-		University of California San Diego
-	\item[2018--2023] Ph.D. in Bioinformatics \& Systems Biology\\
+	\item[2012--2016] B.S. in Biology\\
+		California Institute of Technology (Caltech)
+	\item[2016--2019] Genomics Research Associate\\
+		Verily Life Sciences
+	\item[2019--2026] Ph.D. in Bioinformatics \& Systems Biology\\
 		University of California San Diego
 \end{cvlist}
 \end{cv}
@@ -132,16 +131,25 @@
 %%%%% PUBLICATIONS %%%%%
 \publications{}
 
-\noindent \textit{Author names marked with $\dagger$ indicate shared first co-authorship.} \newline
-\noindent \textit{Publications marked with $\triangle$ are included in this text.} \newline
+\noindent Cunha E Rocha K, Tan B, Kempf J, Medina C, Beldona V, Qian C, Duan Y, Xiang Q, Yoo A, \textbf{Du X}, Majithia AR, Ying W. 2025. Adipose tissue macrophage-derived miR-690 modulates adipocyte precursor cell maintenance and adipogenesis. Mol Metab 101:102246.
+\\
 
-\noindent Avery Pong, \textbf{Clarence K. Mah}, Gene Yeo, Nathan E. Lewis. ``Computational cell-cell interaction technologies drive mechanistic and biomarker discovery in the tumor microenvironment.'' \textit{Accepted, Current Opinion in Biotechnology}, 2023. \newline 
+\noindent \textbf{Du X}, Mendez-Lara K, Hu S, Diao R, Bhavimani G, Hernandez R, Glass K, De Arruda Saldanha C, Flannick J, Heinz S, Majithia AR. 2025. An alternatively translated isoform of PPARG suggests AF-1 domain inhibition as an insulin sensitization target. Diabetes 74:651–663.
+\\
 
-\noindent \textbf{Clarence K. Mah}$\dagger$, Noorsher Ahmed$\dagger$, Nicole Lopez, Dylan Lam, Alexander Monell, Colin Kern, Yuanyuan Han, Gino Prasad, Anthony J. Cesnik, Emma Lundberg, Quan Zhu, Hannah Carter, Gene W. Yeo. ``Bento: A toolkit for subcellular analysis of spatial transcriptomics data.'' \textit{bioRxiv}, 2022. $\triangle$ \newline
+\noindent DeForest N, Kavitha B, Hu S, Isaac R, Krohn L, Wang M, \textbf{Du X}, De Arruda Saldanha C, Gylys J, Merli E, Abagyan R, Najmi L, Mohan V, Alnylam Human Genetics, AMP-T2D Consortium, Flannick J, Peloso GM, Gordts PLSM, Heinz S, Deaton AM, Khera AV, Olefsky J, Radha V, Majithia AR. 2023. Human gain-of-function variants in HNF1A confer protection from diabetes but independently increase hepatic secretion of atherogenic lipoproteins. Cell Genom 3:100339.
+\\
 
-\noindent Sydney C. Morgan$\dagger$, Stefan Aigner$\dagger$, Catelyn Anderson$\dagger$, Pedro Belda-Ferre$\dagger$, Peter De Hoff$\dagger$, Clarisse A. Marotz$\dagger$, Shashank Sathe$\dagger$, Mark Zeller$\dagger$, Noorsher Ahmed, Xaver Audhya, Nathan A. Baer, Tom Barber, Bethany Barrick, Lakshmi Batachari, Maryann Betty, Steven M. Blue, Brent Brainard, Tyler Buckley, Jamie Case, Anelizze Castro-Martinez, Marisol Chacón, Willi Cheung, LaVonnye Chong, Nicole G. Coufal, Evelyn S. Crescini, Scott DeGrand, David P. Dimmock, J. Joelle Donofrio-Odmann, Emily R. Eisner, Mehrbod Estaki, Lizbeth Franco Vargas, Michele Freddock, Robert M Gallant, Andrea Galmozzi, Nina J. Gao, Sheldon Gilmer, Edyta M. Grzelak, Abbas Hakim, Jonathan Hart, Charlotte Hobbs, Greg Humphrey, Nadja Ilkenhans, Marni Jacobs, Christopher A. Kahn, Bhavika K. Kapadia, Matthew Kim, Sunil Kurian, Alma L. Lastrella, Elijah S. Lawrence, Kari Lee, Qishan Liang, Hanna Liliom, Valentina Lo Sardo, Robert Logan, Michal Machnicki, Celestine G. Magallanes, \textbf{Clarence K. Mah}, Denise Malacki, Ryan J. Marina, Christopher Marsh, Natasha K. Martin, Nathaniel L. Matteson, Daniel J. Maunder, Kyle McBride, Bryan McDonald, Daniel McDonald, Michelle McGraw, Audra R. Meadows, Michelle Meyer, Amber L. Morey, Jasmine R. Mueller, Toan T. Ngo, Julie Nguyen, Viet Nguyen, Laura J. Nicholson, Alhakam Nouri, Victoria Nudell, Eugenio Nunez, Kyle O’Neill, R. Tyler Ostrander, Priyadarshini Pantham, Samuel S. Park, David Picone, Ashley Plascencia, Isaraphorn Pratumchai, Michael Quigley, Michelle Franc Ragsac, Andrew C. Richardson, Refugio Robles-Sikisaka, Christopher A. Ruiz, Justin Ryan, Lisa Sacco, Sharada Saraf, Phoebe Seaver, Leigh Sewall, Elizabeth W. Smoot, Kathleen M. Sweeney, Chandana Tekkatte, Rebecca Tsai, Holly Valentine, Shawn Walsh, August Williams, Min Yi Wu, Bing Xia, Brian Yee, Jason Z. Zhang, Kristian G. Andersen, Lauge Farnaes, Rob Knight, Gene W. Yeo, Louise C. Laurent. ``Automated, miniaturized, and scalable screening of healthcare workers, first responders, and students for SARS-CoV-2 in San Diego County.'' \textit{medRxiv}, 2021. \newline
+\noindent Guo MH, Sama P, LaBarre BA, Lokhande H, Balibalos J, Chu C, \textbf{Du X}, Kheradpour P, Kim CC, Oniskey T, Snyder T, Soghoian DZ, Weiner HL, Chitnis T, Patsopoulos NA. 2022. Dissection of multiple sclerosis genetics identifies B and CD4+ T cells as driver cell subsets. Genome Biol 23:127.
+\\
 
-\noindent Shashank Sathe, \textbf{Clarence K. Mah}, Noorsher Ahmed, Michelle Franc Ragsac, John Williams, Gene Yeo. ``INSPECT Sample Tracking System.'' \textit {protocols.io}, 2020. \newline
+\noindent \textbf{Du X}, DeForest N, Majithia AR. 2021. Human genetics to identify therapeutic targets for NAFLD: Challenges and opportunities. Front Endocrinol (Lausanne) 12:777075.
+\\
+
+\noindent Mehta A, Mann M, Zhao JL, Marinov GK, Majumdar D, Garcia-Flores Y, \textbf{Du X}, Erikci E, Chowdhury K, Baltimore D. 2015a. The microRNA-212/132 cluster regulates B cell development by targeting Sox4. J Exp Med 212:1679–1692.
+\\
+
+\noindent Mehta A, Zhao JL, Sinha N, Marinov GK, Mann M, Kowalczyk MS, Galimidi RP, \textbf{Du X}, Erikci E, Regev A, Chowdhury K, Baltimore D. 2015b. The MicroRNA-132 and MicroRNA-212 cluster regulates hematopoietic stem cell maintenance and survival with age by buffering FOXO3 expression. Immunity 42:1021–1032.
 
 %%%%% FIELDS OF STUDY %%%%% 
 % This section was omitted within this thesis as it was optional.
@@ -152,7 +160,7 @@
 % Dissertation Abstract 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{dissertationabstract}
-	Emerging genomic technologies that measure spatial information about RNA molecules promise to shed light on cell biology and function. However, most analytical techniques have primarily concentrated on spatial relationships at the multicellular and cellular scale without fully tapping into single-molecule spatial information. To address this gap, I introduce Bento, a toolkit designed for discerning spatial relationships at the subcellular scale. Bento incorporates a suite of statistical and machine learning methods within an intuitive Python programming interface, emphasizing the FAIR data management principles. To showcase its capabilities, I utilized Bento to study RNA localization changes in doxorubicin-treated cardiomyocytes profiled with spatial transcriptomics. Our findings reveal that doxorubicin-induced stress leads to the depletion of disease-associated genes in the endoplasmic reticulum, along with expression changes previously associated with doxorubicin-induced cardiotoxicity. This places the endoplasmic reticulum as a pivotal subcellular structure in the response to doxorubicin treatment. In essence, Bento emerges as a potent toolkit for the subcellular analysis of spatial transcriptomics data, paving the way for the discovery of new spatial relationships between subcellular structures and molecules. Furthermore, I have created a framework tailored to streamline image processing for spatial transcriptomics data called spotfish. Similar to Bento's ethos, spotfish is built in alignment with FAIR principles and leverages open-source standards like the Nextflow workflow language and Open Microscopy Environment file formats. Collectively, Bento and spotfish empower researchers to harness spatial transcriptomics technologies, enabling more comprehensive exploration of the spatial and molecular organization of cells at an unprecedented throughput.
+Insulin resistance, defined by decreased sensitivity in target tissues to normal circulating levels of insulin, underlies the pathogenesis of many epidemic metabolic disorders, including type 2 diabetes, metabolic syndrome, and cardiovascular disease. In this dissertation, I leverage functional genomics and human genetics to further our understanding of the molecular mechanisms driving insulin resistance, with a particular focus on peroxisome proliferator–activated receptor $\gamma$ (PPAR$\gamma$), the pharmacologic target of thiazolidinediones, a class of potent insulin sensitizers limited by adverse effects, and adipose tissue biology. In Chapter 1, I apply high-throughput genome engineering to systematically perturb PPARG, revealing an alternative translational start site that generates a truncated isoform, PPAR$\gamma$ M135, with increased transactivation in response to thiazolidinediones. In Chapter 2, I investigate the metabolic consequences of PPAR$\gamma$ M135 using a human preadipocyte cell line model and through genetic analysis of rare variants that recapitulate the functional effects of this isoform, highlighting its insulin sensitizing potential. Adipose tissue plays a central role in systemic insulin sensitivity, with distinct fat depots contributing differently to metabolic health: while subcutaneous adipose tissue is considered protective, visceral adipose tissue is associated with insulin resistance and cardiometabolic disease. However, mechanistic studies of depot-specific functions have been limited by the lack of human visceral adipocyte cell lines. To address this, in Chapter 3, I describe a framework for reprogramming an existing cell model into depot-specific adipocytes to provide more resources for future studies of insulin resistance. Altogether, in this dissertation, I combine functional genomics with human genetics to identify an alternatively translated isoform with insulin sensitizing implications and establish the foundation for more depot-specific analysis of insulin resistance in adipocytes.
 \end{dissertationabstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -177,8 +185,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % End of the Dissertation
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\backmatter{}
-\bibliographystyle{unsrtnat} 
-\bibliography{bibliography}
+%\backmatter{}
+%\bibliographystyle{unsrtnat} 
+%\bibliography{bibliography}
 
 \end{document}
